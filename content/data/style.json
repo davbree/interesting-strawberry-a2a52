@@ -11,8 +11,8 @@
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
-    }
-
+    },
+    
     "h3": {
         "weight": "bold",
         "decoration": "none",
