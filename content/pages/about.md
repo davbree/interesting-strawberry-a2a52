@@ -48,7 +48,7 @@ sections:
         width: wide
         margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
         padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
-        alignItems: centera
+        alignItems: center
         justifyContent: center
         flexDirection: row
       title:
