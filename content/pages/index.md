@@ -20,12 +20,12 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero-dsimage.png
+      url: /images/hero-image.png
       altText: Hero section image
     styles:
-      self:d
+      self:
         height: screen
-        width: widde
+        width: wide
         margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
         padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
         alignItems: center
@@ -38,7 +38,7 @@ sections:
       subtitle:
         fontWeight: '400'
         fontStyle: normal
-        textAlign: lseft
+        textAlign: left
         margin: ["mt-8", "mb-8"]
       text:
         textAlign: left
@@ -113,7 +113,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/trout3.png
+      url: /images/trout.png
       altText: Contact form image
     styles:
       self:
