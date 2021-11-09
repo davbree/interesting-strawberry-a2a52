@@ -38,7 +38,7 @@ sections:
       subtitle:
         fontWeight: '400'
         fontStyle: normal
-        textAlign: left
+        textAlign: lseft
         margin: ["mt-8", "mb-8"]
       text:
         textAlign: left
