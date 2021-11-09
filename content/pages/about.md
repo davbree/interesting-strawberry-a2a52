@@ -60,5 +60,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-layout: PageLayout1
+layout: PageLayout
 ---
