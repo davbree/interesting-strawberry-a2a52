@@ -23,9 +23,9 @@ sections:
       url: /images/hero-dsimage.png
       altText: Hero section image
     styles:
-      self:
+      self:d
         height: screen
-        width: wide
+        width: widde
         margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
         padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
         alignItems: center
