@@ -81,7 +81,7 @@ models:
         items:
           type: reference
           models:
-            - PostLayout
+            - PostLayout4
         default:
           - content/pages/blog/post-three.md
           - content/pages/blog/post-two.md
