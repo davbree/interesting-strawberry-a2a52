@@ -26,7 +26,6 @@ contentModels:
 models:
   FeaturedPostsSection:
     type: object
-    name: FeaturedPostsSection
     label: Featured posts section
     labelField: title
     extends:
