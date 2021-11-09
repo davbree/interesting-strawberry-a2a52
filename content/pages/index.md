@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: HeroSection3
+  - type: HeroSection
     elementId: ''
     colors: colors-a
     title: We do fishing differently.
