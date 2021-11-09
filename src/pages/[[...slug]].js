@@ -1,7 +1,7 @@
 import React from 'react';
 import { sourcebitDataClient } from 'sourcebit-target-next';
 import { withRemoteDataUpdates } from 'sourcebit-target-next/with-remote-data-updates';
-import { getComponent } from '@stackbit/components';
+import { getComponent9 } from '@stackbit/components';
 
 function Page(props) {
     const { page, site } = props;
