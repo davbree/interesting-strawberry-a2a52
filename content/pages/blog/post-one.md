@@ -2,7 +2,7 @@
 title: Sustainable fishing
 layout: PostLayout
 date: '2021-06-28'
-author: content/data/team/dianne-ameter.json
+author: content/data/team/dianne-ameter.json1
 excerpt: >-
   We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
   the sea has to offer, nothing more, and no cheating.
